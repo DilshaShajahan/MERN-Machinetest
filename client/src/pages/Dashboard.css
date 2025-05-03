@@ -1,0 +1,24 @@
+.dashboard-container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  /* Centers children horizontally */
+  justify-content: center;
+ 
+  /* Optional: to center vertically */
+  padding: 0px;
+  box-sizing: border-box;
+}
+
+.dashboard-container h2 {
+  margin-bottom: 20px;
+  color: #4e73df;
+}
+
+
+
+
+
+
+
+

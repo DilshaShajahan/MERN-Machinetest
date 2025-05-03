@@ -1,0 +1,21 @@
+.chart-container {
+  width: 72%;
+  max-width: 1200px;
+  text-align: center;
+  background-color: #fff;
+  padding: 30px 40px 50px;
+  border-radius: 10px;
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);
+}
+
+.chart-container h3 {
+  font-size: 1.8rem;
+  margin-bottom: 25px;
+  color:#4e73df;
+}
+
+canvas {
+  width: 100% !important;
+  max-width: 800px;
+  margin: 0 auto;
+}
